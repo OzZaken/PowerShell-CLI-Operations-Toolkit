@@ -4,6 +4,7 @@ PowerShell CLI Operations Toolkit for System\Network administrator, HelpDesk and
 comprehensive PowerShell toolkit designed to streamline operations for system administrators and help desk teams.
 
 This script includes an extensive menu system with a wide array of commands to enhance productivity.
+  <img title="menu" src="assets/imgs/menu-powerdesk.png">
 
 # 1. clone the repo
 ```bash
@@ -15,17 +16,16 @@ https://github.com/OzZaken/PowerDesk_PowerShell-Operations-Toolkit.git
 config\CONTRIBUTERS.txt
 # Or
 config\POWERDESK_USERS.txt
-
 ```
 
-# 3. Run with powershell index
+# 3. Run with powershell index.ps1
   <img title="Run" src="assets/imgs/run-powerdesk.png">
 
-# PowerDesk ToolKit Menu
-  <img title="menu" src="assets/imgs/menu-powerdesk.png">
+# PowerDesk ToolKit Menu keep simple
 
-## Guest Regular users cant get into 'debug' directory and run unfinished script, for your safety.    
+## For safety Guest and Regular users cant get into 'debug' directory and run unfinished scripts.    
   <img title="File" src="assets/imgs/guest.png">
+
 
 # CRUD Over Files
   <img title="File" src="assets/imgs/file-powerdesk.png">
@@ -33,7 +33,7 @@ config\POWERDESK_USERS.txt
 # Networks scripts
   <img title="File" src="assets/imgs/network-powerdesk.png">
 
-# Networks adapters report on html script example (script 18): 
+# Networks adapters report on html in second (script index 18): 
   <img title="File" src="assets/imgs/reports-net-adapters.png">
 
 # System Menu: 
@@ -43,3 +43,11 @@ config\POWERDESK_USERS.txt
   <img title="File" src="assets/imgs/popup-1.png">
   <img title="File" src="assets/imgs/popup-2.png">
 
+# 3 Versions of logs file for easy debugging (daily session, per script file, warning):    
+  <img title="File" src="assets/imgs/logs-types.png">
+
+## Contributors can keep truck and Update the 'CHANGES.md' file  over logs via debug\contribute:
+  <img title="File" src="assets/imgs/contributors-log.png">
+  
+## Contributors? 
+  <img title="File" src="assets/imgs/contributors-list.png">

@@ -1,9 +1,9 @@
 13:41:31 - [Warning] - Three unsuccessful attempts from system details:
 Name            Value                    
 ----            -----                    
-MACAddress      I-Dont-Know-If-Safe-toShare        
+MACAddress      lets-keep-it-private-on-demo        
 OperatingSystem Microsoft Windows 10 Pro 
-IPAddress       192.168.1.45             
+IPAddress       192.168.1.40             
 Hostname        OzPc                  
 CurrentUser     ozzak                    
-DNS             {213.57.2.5, 213.57.22.5}
+DNS             {212.55.2.1, 212.55.22.1}

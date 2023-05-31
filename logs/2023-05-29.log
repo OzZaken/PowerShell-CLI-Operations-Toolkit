@@ -5,15 +5,6 @@
 00:04:44 - [Info] - Invoke-Expression: [Show-Networks]  | param:  by [516]
 00:06:08 - [Info] - Invoke-Expression: [Get-EnvVars]  | param:  by [516]
 00:11:46 - [Warning] - Three unsuccessful attempts from system details:
-
-Name            Value                    
-----            -----                    
-MACAddress      I-Dont-Know-If-Safe-toShare        
-OperatingSystem Microsoft Windows 10 Pro 
-IPAddress       192.168.1.45             
-Hostname        OLYMPUS                  
-CurrentUser     ozzak                    
-DNS             {213.57.2.5, 213.57.22.5}
 00:13:12 - [info] - init PowerDesk by [Test-reports]
 00:13:36 - [Info] - Invoke-Expression: [Report-NetAdapter]  | param:  by [Test-reports]
 00:14:35 - [Info] - Invoke-Expression: [Get-InstalledSoftwares]  | param:  by [Test-reports]
