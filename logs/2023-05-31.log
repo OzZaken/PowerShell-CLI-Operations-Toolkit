@@ -1,0 +1,436 @@
+00:59:44 - info - init PowerDesk by [oz] -  
+01:03:08 - [Error] - error creating enviorment variable
+01:06:45 - [Error] - error creating enviorment variable
+01:07:12 - [Error] - error creating enviorment variable
+01:14:09 - [info] - init PowerDesk by [oz]
+01:14:34 - [Error] - error creating enviorment variable
+01:14:44 - [info] - init PowerDesk by [oz]
+01:15:19 - [info] - init PowerDesk by [oz]
+01:15:37 - [info] - init PowerDesk by [oz]
+01:16:04 - [Error] - error creating enviorment variable
+01:16:33 - [Error] - error creating enviorment variable
+01:16:39 - [Error] - error creating enviorment variable
+01:16:55 - [Error] - error creating enviorment variable
+01:17:08 - [Error] - error creating enviorment variable
+10:23:57 - [Error] - error creating enviorment variable
+10:27:51 - [Error] - error creating enviorment variable
+10:36:19 - [Error] - error creating enviorment variable
+10:36:47 - [Error] - error creating enviorment variable The term '.\services\Create-EnvVar.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+10:38:47 - [Error] - error creating enviorment variable The term '.\services\Create-EnvVar.ps1' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+10:43:49 - [Error] - error creating enviorment variable The attribute cannot be added because variable Severity with value  would no longer be valid.
+10:45:09 - [Error] - error creating enviorment variable The attribute cannot be added because variable Severity with value  would no longer be valid.
+10:49:15 - info - init PowerDesk by [oz] - 
+11:49:39 - info - init PowerDesk by [oz] 
+13:20:57 - [Error] - An error occurred: Cannot find path 'C:\Windows\config' because it does not exist.
+13:27:18 - info - init PowerDesk by [oz] 
+13:28:29 - info - init PowerDesk by [oz] 
+13:37:22 - info - init PowerDesk by [oz]1 
+13:38:54 - info - init PowerDesk by [oz] - by oz  
+13:41:06 - info - init PowerDesk  - by oz  
+13:41:38 - Info - init PowerDesk  - by oz  
+14:05:04 - Info - init - by oz  
+14:05:20 - Info - init - by oz  
+14:06:12 - Info - init - by oz  
+14:06:41 - Info - init - by oz  
+14:06:56 - Info - init - by oz  
+14:12:10 - Info - init - by oz  
+14:12:23 - Info - init - by oz  
+14:18:24 - Info - init - by oz  
+14:21:00 - Info - init - by oz  
+14:36:41 - Info - init - by oz  
+14:45:23 - Error - error occurred while adding line to changes file - by oz  
+14:46:15 - Error - error occurred while adding line to changes file - by oz  
+14:46:47 - Error - error occurred while adding line to changes file - by oz  
+14:47:15 - Error - error occurred while adding line to changes file - by oz  
+14:49:17 - Error - error occurred while adding line to changes file - by oz  
+14:49:35 - Error - error occurred while adding line to changes file - by oz  
+14:52:34 - Error - error occurred while adding line to changes file - by oz  
+14:53:50 - Error - add line to changes file - by oz  
+14:55:12 - Error - add line to changes file - by oz  
+15:17:02 - Info - init - by oz  
+15:20:05 - Info - init - by oz  
+15:20:48 - Info - init - by oz  
+15:30:36 - Info - init - by oz  
+15:46:05 - Info - init - by oz  
+15:46:45 - Error - Get-User - by oz  
+15:46:45 - Error - init PowerDesk  - by oz  
+15:47:44 - Info - init - by oz  
+15:56:07 - Info - Process-level isContributor has been created with value False - by oz  
+15:56:07 - Info - Process-level PowerDesk_CURRENT_USER has been created with value oz - by oz  
+15:56:07 - Info - init - by oz  
+16:00:51 - Info - Process-level isContributor has been created with value False - by oz  
+16:00:51 - Info - Process-level PowerDesk_CURRENT_USER has been created with value oz - by oz  
+16:00:51 - Info - init - by oz  
+16:02:51 - Info - Process-level isContributor has been created with value False - by oz  
+16:02:51 - Info - Process-level PowerDesk_CURRENT_USER has been created with value oz - by oz  
+16:02:51 - Info - init - by oz  
+16:04:03 - Info - Process-level isContributor has been created with value False - by oz  
+16:04:03 - Info - Process-level PowerDesk_CURRENT_USER has been created with value oz - by oz  
+16:04:03 - Info - init - by oz  
+16:07:52 - Info - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz  
+16:07:53 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz  
+16:07:53 - Info - init - by oz  
+16:12:39 - Info - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz  
+16:12:39 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz  
+16:12:39 - Info - init - by oz  
+16:14:05 - Info - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz  
+16:14:06 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz  
+16:14:06 - Info - init - by oz  
+16:14:11 - Info - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by oz  
+16:14:11 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [maya] - by maya  
+16:14:11 - Info - init - by maya  
+16:17:27 - Info - Invoke-Expression: [Read-EnvVar] - by maya  
+16:19:11 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by maya  
+16:19:11 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by maya  
+16:19:11 - Info - init - by maya  
+16:19:17 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [False] - by maya  
+16:19:18 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [maya] - by maya  
+16:19:18 - Info - init - by maya  
+16:20:39 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by maya  
+16:20:40 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by maya  
+16:20:40 - Info - init - by maya  
+16:23:02 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [SYSTEM] - by maya  
+16:23:04 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by maya  
+16:23:04 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by maya  
+16:23:04 - Info - init - by maya  
+16:23:13 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [SYSTEM] - by maya  
+16:31:11 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by SYSTEM  
+16:31:11 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by SYSTEM  
+16:31:11 - Info - init - by SYSTEM  
+16:34:36 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by SYSTEM  
+16:34:37 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by SYSTEM  
+16:34:37 - Info - init - by SYSTEM  
+16:35:19 - Info - Invoke-Expression: [Report-SystemProcess] - by SYSTEM  
+16:39:40 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by SYSTEM  
+16:39:40 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by SYSTEM  
+16:39:40 - Info - init - by SYSTEM  
+16:39:54 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [False] - by SYSTEM  
+16:39:55 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [maya] - by SYSTEM  
+16:39:55 - Info - init - by SYSTEM  
+16:45:30 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by SYSTEM  
+16:45:30 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by SYSTEM  
+16:45:30 - Debug - init by oz - by SYSTEM  
+16:45:36 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [False] - by SYSTEM  
+16:45:36 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [maya] - by SYSTEM  
+16:45:36 - Debug - init by maya - by SYSTEM  
+16:46:42 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by SYSTEM  
+16:46:42 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by SYSTEM  
+16:46:42 - Debug - init by oz - by SYSTEM  
+16:46:46 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [False] - by SYSTEM  
+16:46:46 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [maya] - by SYSTEM  
+16:46:46 - Debug - init by maya - by SYSTEM  
+16:47:10 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by SYSTEM  
+16:47:10 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by SYSTEM  
+16:47:10 - Debug - init by oz - by SYSTEM  
+16:47:57 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by   
+16:47:57 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by   
+16:47:57 - Debug - init by oz - by   
+16:48:03 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [False] - by   
+16:48:03 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [maya] - by   
+16:48:03 - Debug - init by maya - by   
+16:49:19 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by UNKNOWN 
+16:49:20 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by UNKNOWN 
+16:49:20 - Debug - init by oz - by UNKNOWN 
+16:49:28 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [False] - by UNKNOWN 
+16:49:28 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [maya] - by UNKNOWN 
+16:49:28 - Debug - init by maya - by UNKNOWN 
+16:50:27 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by UNKNOWN 
+16:50:27 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by UNKNOWN 
+16:50:27 - Debug - init by oz - by UNKNOWN 
+16:53:24 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by UNKNOWN 
+16:53:24 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by UNKNOWN 
+16:53:24 - Debug - init by oz - by UNKNOWN 
+16:53:41 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by UNKNOWN 
+16:53:41 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by UNKNOWN 
+16:53:41 - Debug - init by oz - by UNKNOWN 
+16:55:45 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by UNKNOWN 
+16:55:45 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by UNKNOWN 
+16:55:45 - Debug - init by oz - by UNKNOWN 
+16:58:14 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by UNKNOWN 
+16:58:14 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [oz] - by UNKNOWN 
+16:58:14 - Debug - init by oz - by UNKNOWN 
+16:58:49 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [False] - by UNKNOWN 
+16:58:49 - Info - SetEnvironmentVariable [Machine-level] name: [PowerDesk_CURRENT_USER]  val: [guest] - by UNKNOWN 
+16:58:49 - Debug - init by guest - by UNKNOWN 
+16:59:31 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by UNKNOWN 
+16:59:31 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+16:59:31 - Debug - init by oz - by oz 
+17:00:13 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by oz 
+17:00:13 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+17:00:13 - Debug - init by oz - by oz 
+17:00:49 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by oz 
+17:00:49 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [admin] - by admin 
+17:00:49 - Debug - init - by admin 
+17:00:58 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by UNKNOWN 
+17:00:58 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+17:00:58 - Debug - init - by oz FIX**
+17:03:51 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by oz 
+17:03:51 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+17:03:51 - Debug - init - by oz 
+17:04:09 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by oz 
+17:04:09 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+17:04:09 - Debug - init - by oz 
+17:04:53 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by oz 
+17:04:53 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+17:04:53 - Debug - init - by oz 
+17:05:17 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by oz 
+17:05:17 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+17:05:17 - Debug - init - by oz 
+17:07:10 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by oz 
+17:07:10 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [admin] - by admin 
+17:07:10 - Debug - init - by admin 
+17:14:43 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by admin 
+17:14:43 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+17:14:43 - Debug - init - by oz 
+17:14:49 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [False] - by UNKNOWN 
+17:14:49 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+17:14:49 - Debug - init - by guest 
+17:15:00 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [False] - by guest 
+17:15:00 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+17:15:00 - Debug - init - by guest 
+17:17:13 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [False] - by guest 
+17:17:13 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+17:17:13 - Debug - init - by guest 
+17:17:24 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [False] - by guest 
+17:17:24 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+17:17:24 - Debug - init - by guest 
+17:22:11 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by guest 
+17:22:11 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+17:22:11 - Debug - init - by oz 
+17:22:31 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [True] - by oz 
+17:22:31 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+17:22:31 - Debug - init - by oz 
+17:22:38 - Info - SetEnvironmentVariable [Machine-level] name: [isContributor]  val: [False] - by UNKNOWN 
+17:22:38 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+17:22:38 - Debug - init - by guest 
+17:24:13 - Info - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by UNKNOWN 
+17:24:13 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+17:24:13 - Debug - init - by guest 
+17:25:27 - Info - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by UNKNOWN 
+17:25:27 - Info - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+17:25:27 - Debug - init - by oz 
+17:57:30 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+17:57:30 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+17:57:30 - Debug - init - by oz 
+17:59:53 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+17:59:53 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+17:59:53 - Debug - init - by oz 
+17:59:59 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by UNKNOWN 
+17:59:59 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+17:59:59 - Debug - init - by guest 
+18:00:37 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by guest 
+18:00:37 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+18:00:37 - Debug - init - by guest 
+18:00:49 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by guest 🐞
+18:00:49 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+18:00:49 - Debug - init - by oz 
+18:20:59 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+18:20:59 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+18:20:59 - Debug - init - by oz 
+18:29:05 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by UNKNOWN 
+18:29:05 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by UNKNOWN 
+18:29:05 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+18:29:05 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+18:29:05 - Error - init PowerDesk - by oz 
+18:32:19 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+18:32:19 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:32:19 - Error - init PowerDesk - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:43:15 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:43:15 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:43:15 - Error - init PowerDesk - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:43:35 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:43:35 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+18:43:35 - Error - init PowerDesk - by oz 
+18:43:46 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+18:43:46 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:43:46 - Error - init PowerDesk - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:45:07 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:45:07 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+18:45:07 - Error - init PowerDesk - by oz 
+18:46:51 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+18:46:51 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\FileName oz] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\FileName oz 
+18:46:51 - Error - init PowerDesk - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\FileName oz 
+18:52:39 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\FileName oz 
+18:52:39 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+18:52:39 - Error - init PowerDesk - by oz 
+18:53:37 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+18:53:37 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\FileName oz] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\FileName oz 
+18:53:37 - Error - init PowerDesk - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\FileName oz 
+18:54:51 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\FileName oz 
+18:54:51 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\FileName oz 
+18:54:51 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+18:54:51 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+18:54:51 - Error - init PowerDesk - by oz 
+18:55:36 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+18:55:36 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:55:36 - Error - init PowerDesk - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:57:43 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:57:43 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+18:57:43 - Error - init PowerDesk - by oz 
+18:57:51 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+18:57:51 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:57:51 - Error - init PowerDesk - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:58:42 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\2023-05-31.log oz 
+18:58:42 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+18:58:42 - Error - init PowerDesk - by oz 
+19:00:54 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:00:54 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:01:41 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:01:41 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:02:14 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:02:14 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:03:17 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:03:17 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:03:17 - Error - init  - by oz 
+19:03:27 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:03:27 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:03:41 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:03:41 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:04:15 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:04:15 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:04:15 - Error - init - by oz 
+19:04:27 - Debug - cleanup - by oz 
+19:04:35 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by UNKNOWN 
+19:04:35 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+19:04:35 - Error - init - by guest 
+19:04:57 - Debug - cleanup - by guest 
+19:05:05 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by UNKNOWN 
+19:05:05 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:05:05 - Error - init - by oz 
+19:05:25 - Debug - cleanup - by oz 
+19:05:48 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by UNKNOWN 
+19:05:49 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:05:49 - Error - init - by oz 
+19:06:01 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:06:01 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:06:01 - Error - init - by oz 
+19:06:08 - Debug - cleanup - by oz 
+19:06:20 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by UNKNOWN 
+19:06:20 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+19:06:20 - Error - init - by guest 
+19:15:33 - Debug - cleanup - by guest 
+19:15:37 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by UNKNOWN 
+19:15:37 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+19:15:37 - Error - init - by guest 
+19:15:51 - Debug - cleanup - by guest 
+19:15:58 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by UNKNOWN 
+19:15:59 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+19:15:59 - Error - init - by guest 
+19:16:51 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by guest 
+19:16:51 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:16:51 - Error - init - by oz 
+19:16:55 - Debug - cleanup - by oz 
+19:17:00 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by UNKNOWN 
+19:17:00 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+19:17:00 - Error - init - by guest 
+19:18:55 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by guest 
+19:18:55 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+19:18:55 - Error - init - by guest 
+19:20:14 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by guest 
+19:20:14 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:20:14 - Error - init - by oz 
+19:20:19 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by oz 
+19:20:20 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+19:20:20 - Error - init - by guest 
+19:22:52 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by guest 
+19:22:52 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\Set-EnvVar.log oz] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\Set-EnvVar.log oz 
+19:22:52 - Error - init - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\Set-EnvVar.log oz 
+19:24:05 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\errors\Set-EnvVar.log oz 
+19:24:05 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:24:05 - Error - init - by oz 
+19:24:41 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:24:41 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\files\Set-EnvVar.log oz] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\files\Set-EnvVar.log oz 
+19:24:41 - Error - init - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\files\Set-EnvVar.log oz 
+19:24:59 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by C:\dev\PowerDesk_PowerShell-Operations-Toolkit\logs\files\Set-EnvVar.log oz 
+19:24:59 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+19:24:59 - Error - init - by guest 
+19:26:13 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by guest 
+19:26:13 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:26:13 - Error - init - by oz 
+19:26:36 - Error - Invoke-Script - by oz 
+19:29:05 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:29:05 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:29:05 - Error - init - by oz 
+19:32:42 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:32:43 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:32:43 - Error - init - by oz 
+19:33:27 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:33:27 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:33:27 - Error - init - by oz 
+19:34:33 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:34:33 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:34:33 - Error - init  - by oz 
+19:34:50 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:34:50 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:34:50 - Error - init  - by oz 
+19:35:34 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by oz 
+19:35:34 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+19:35:38 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by guest 
+19:35:38 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+19:36:28 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by guest 
+19:36:28 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:36:28 - Info - init - by oz 
+19:36:56 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by oz 
+19:36:56 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+19:36:56 - Info - init - by guest 
+19:37:02 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [False] - by guest 
+19:37:02 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [guest] - by guest 
+19:37:02 - Info - init - by guest 
+19:38:08 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by guest 
+19:38:08 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:38:08 - Info - init - by oz 
+19:43:28 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:43:29 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:43:29 - Info - init - by oz 
+19:45:08 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:45:08 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:45:08 - Info - init - by oz 
+19:45:15 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+19:47:00 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+19:49:56 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+19:51:27 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+19:52:30 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:52:30 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:52:30 - Info - init - by oz 
+19:52:36 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+19:53:23 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+19:55:29 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:55:29 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:55:29 - Info - init - by oz 
+19:57:25 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+19:58:19 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:58:19 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:58:19 - Info - init - by oz 
+19:58:23 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+19:59:11 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+19:59:11 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+19:59:11 - Info - init - by oz 
+19:59:18 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+20:04:43 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+20:04:43 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+20:04:43 - Info - init - by oz 
+20:05:04 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+20:10:24 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+20:13:24 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+20:13:24 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+20:13:25 - Info - init - by oz 
+20:13:47 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+20:14:23 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+20:14:23 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+20:14:23 - Info - init - by oz 
+20:14:28 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+20:15:24 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by oz 
+20:15:24 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+20:15:24 - Info - init - by oz 
+20:15:55 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+20:16:11 - Error - Invoke-Expression: [Create-LogChange] - by oz 
+20:17:11 - Debug - AddLogChange - by oz 
+20:17:11 - Info - Invoke-Expression: [Create-LogChange] - by oz 
+20:35:46 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by guest 
+20:35:46 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+20:35:46 - Info - init - by oz 
+20:38:00 - Debug - SetEnvironmentVariable [Process-level] name: [isContributor] value: [True] - by guest 
+20:38:00 - Debug - SetEnvironmentVariable [Process-level] name: [PowerDesk_CURRENT_USER] value: [oz] - by oz 
+20:38:00 - Info - init - by oz 
+20:38:35 - Debug - AddLogChange - by oz 
+20:38:35 - Info - Invoke-Expression: [Create-LogChange] - by oz 

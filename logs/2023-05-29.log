@@ -1,0 +1,54 @@
+00:01:46 - [info] - init POWERDESK by [oz]
+00:02:11 - [info] - init POWERDESK by [xz]
+00:02:28 - [info] - init POWERDESK by [xzc]
+00:04:25 - [info] - init POWERDESK by [516]
+00:04:44 - [Info] - Invoke-Expression: [Show-Networks]  | param:  by [516]
+00:06:08 - [Info] - Invoke-Expression: [Get-EnvVars]  | param:  by [516]
+00:11:46 - [Warning] - Three unsuccessful attempts from system details:
+
+Name            Value                    
+----            -----                    
+MACAddress      I-Dont-Know-If-Safe-toShare        
+OperatingSystem Microsoft Windows 10 Pro 
+IPAddress       192.168.1.45             
+Hostname        OLYMPUS                  
+CurrentUser     ozzak                    
+DNS             {213.57.2.5, 213.57.22.5}
+00:13:12 - [info] - init PowerDesk by [Test-reports]
+00:13:36 - [Info] - Invoke-Expression: [Report-NetAdapter]  | param:  by [Test-reports]
+00:14:35 - [Info] - Invoke-Expression: [Get-InstalledSoftwares]  | param:  by [Test-reports]
+00:27:45 - [Error] - error creating enviorment variable
+00:29:10 - [info] - init PowerDesk by [oz]
+11:23:16 - [info] - init PowerDesk by [oz]
+11:23:41 - [info] - init PowerDesk by [a]
+13:08:11 - [info] - init PowerDesk by [Oz-B4HR]
+13:10:51 - [Info] - Invoke-Expression: [Report-NetAdapter]  | param:  by [Oz-B4HR]
+15:18:48 - [info] - init PowerDesk by [OzZaken]
+15:18:59 - [info] - init PowerDesk by [Ozzaken]
+15:19:05 - [info] - init PowerDesk by [oz]
+19:16:01 - [info] - init PowerDesk by [oz]
+19:18:55 - [info] - init PowerDesk by [3]
+19:20:36 - [info] - init PowerDesk by [oz]
+19:21:51 - [Info] - Invoke-Expression: [Test-WS]  | param:  by [oz]
+19:29:29 - [Error] - Invoke-Expression  Log-Change | param: 
+19:29:32 - [Error] - Invoke-Script: [2], max idx [6], selectedFile: [C:\dev\PowerDesk_PowerShell-Operations-Toolkit\scripts\util\Log-Change.ps1]
+19:29:43 - [info] - init PowerDesk by [2]
+19:30:45 - [Info] - Invoke-Expression: [Test-WS]  | param:  by [2]
+19:34:19 - [info] - init PowerDesk by [s]
+19:34:26 - [Info] - Invoke-Expression: [Test-WS]  | param:  by [s]
+19:38:36 - [info] - init PowerDesk by [5]
+19:38:41 - [Info] - Invoke-Expression: [Test-WS]  | param:  by [5]
+19:39:23 - [info] - init PowerDesk by [202]
+19:39:28 - [Info] - Invoke-Expression: [Test-WS]  | param:  by [202]
+19:40:19 - [Info] - Invoke-Expression: [Test-WS]  | param:  by [202]
+19:40:58 - [info] - init PowerDesk by [z]
+19:42:03 - [Info] - Invoke-Expression: [Test-WS]  | param:  by [z]
+19:43:53 - [Info] - Invoke-Expression: [demo]  | param:  by [z]
+19:44:35 - [Info] - Invoke-Expression: [demo]  | param:  by [z]
+19:45:42 - [info] - init PowerDesk by [s]
+19:45:46 - [Error] - Invoke-Expression  demo | param: 
+19:46:07 - [Info] - Invoke-Expression: [demo]  | param:  by [s]
+19:46:41 - [info] - init PowerDesk by [s]
+19:47:05 - [Info] - Invoke-Expression: [demo]  | param:  by [s]
+19:47:55 - [info] - init PowerDesk by [2]
+19:48:07 - [Info] - Invoke-Expression: [demo]  | param:  by [2]
