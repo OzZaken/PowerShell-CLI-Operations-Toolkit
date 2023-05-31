@@ -19,15 +19,15 @@ try {
     switch ($Scope) {
         "Machine" {
             [System.Environment]::SetEnvironmentVariable($Name, $Val, "Machine")
-            Invoke-Expression "$WriteLog -Message 'SetEnvironmentVariable [Machine-level] name: [$Name]  val: [$Val]' -FileName 'Set-EnvVar'"
+            # Invoke-Expression "$WriteLog -Message 'SetEnvironmentVariable [Machine-level] name: [$Name]  val: [$Val]' -FileName 'Set-EnvVar'"
         }
         "User" {
             [System.Environment]::SetEnvironmentVariable($Name, $Val, "User")
-            Invoke-Expression "$WriteLog -Message 'SetEnvironmentVariable [User-level] name: [$Name] value: [$Val]' -FileName 'Set-EnvVar'"
+            # Invoke-Expression "$WriteLog -Message 'SetEnvironmentVariable [User-level] name: [$Name] value: [$Val]' -FileName 'Set-EnvVar'"
         }
         "Process" {
             [System.Environment]::SetEnvironmentVariable($Name, $Val, "Process")
-            Invoke-Expression "$WriteLog -Message 'SetEnvironmentVariable [Process-level] name: [$Name] value: [$Val]' -FileName 'Set-EnvVar'"
+            # Invoke-Expression "$WriteLog -Message 'SetEnvironmentVariable [Process-level] name: [$Name] value: [$Val]' -FileName 'Set-EnvVar'"
         }
     }
 }

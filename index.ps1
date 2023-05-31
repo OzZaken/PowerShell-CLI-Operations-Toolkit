@@ -52,11 +52,11 @@ function init {
     Write-Host 
 
     # Prompt for the user's selectDirIdx and Convert to integer
-    $selectDirIdx = Read-Host "Select scripts directory ([0]..$($scriptsDirs.Count))" 
+    $selectDirIdx = Read-Host "Select scripts directory index (0..$($scriptsDirs.Count))" 
     $selectDirIdx = [int]$selectDirIdx 
     
     # Process user's selectDirIdx
-    if ($selectDirIdx -eq "0") {
+    if ($selectDirIdx -eq 0) {
         break
     }
     elseif ($selectDirIdx -ge 1 -and $selectDirIdx -le $scriptsDirs.Count) {

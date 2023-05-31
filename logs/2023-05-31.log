@@ -445,3 +445,11 @@
 21:01:15 - Info - init - by oz 
 21:01:36 - Debug - AddLogChange - by oz 
 21:01:37 - Info - Invoke-Expression: [Update-Change-Log] - by oz 
+21:25:44 - Error - Invoke-Expression: [Convert-SubnetToBinary] - by oz 
+21:26:42 - Info - Invoke-Expression: [Report-NetAdapter] - by oz 
+21:30:33 - Info - init - by oz 
+21:35:11 - Info - init - by oz 
+21:36:09 - Info - Invoke-Expression: [NotificationMsg] - by oz 
+21:39:58 - Info - init - by guest 
+21:40:46 - Info - init - by guest 
+21:42:26 - Info - Invoke-Expression: [NotificationMsg] - by guest 
