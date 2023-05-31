@@ -1,0 +1,1 @@
+DISM /online /cleanup-image /restoreHealth

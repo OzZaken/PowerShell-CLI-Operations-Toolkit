@@ -1,0 +1,1 @@
+Get-Volume | Where-Object -Filter { $_.HealthStatus -ne 'Healthy' -or $_.SizeRemaining -lt 100MB }
