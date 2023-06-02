@@ -60,9 +60,9 @@ function init {
         break
     }
     elseif ($selectDirIdx -ge 1 -and $selectDirIdx -le $scriptsDirs.Count) {
-        $dirpath = $($scriptsDirs[$selectDirIdx - 1].FullName)
+        $dirpath = Get-NameFromPath -Path $($scriptsDirs[$selectDirIdx - 1].FullName)
         $dirName = $(Split-Path -Leaf $dirpath)
-        Invoke-Expression "$WriteLog -Message 'selected script dir: $dirName' -FileName 'index'"
+        # Invoke-Expression "$WriteLog -Message 'selected script dir: $dirName' -FileName 'index'"
         # Enter debug allow to contributors\admin only
         if (($dirName -eq "debug") -and ($isContributer -ne "True") ) {
             Write-Host "`ndebug use for CRUD new scripts, [contributers users] read contributing.md file doe more details"
@@ -93,7 +93,7 @@ function Show-SubMenu {
         [string]$Subfolder
     )
     Clear-Host # Clear the console screen
-    $dirName = Split-Path -Leaf $Subfolder
+    $dirName = Get-NameFromPath -Path $Subfolder
     if ($dirName -eq "debug" ) {
         $isContributer = Invoke-Expression "$GetEnvVar -Name 'isContributor'"
         if ($isContributer -ne "True") {
@@ -237,6 +237,13 @@ function Invoke-Script {
         # Show-SubMenu -Subfolder (Split-Path $ScriptPath -Parent)
         Show-Menu
     }
+}
+function Get-NameFromPath {
+    param (
+        [Parameter(Mandatory = $true)]
+        [string]$Path
+    )
+    return Split-Path -Leaf $Path
 }
 
 init
