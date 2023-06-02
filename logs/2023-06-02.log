@@ -1,3 +1,29 @@
 00:59:04 - Info - init - by oz 
 01:01:05 - Info - init - by oz 
 11:45:46 - Info - init - by oz 
+12:02:38 - Info - init - by oz 
+12:03:34 - Info - Invoke-Expression: [GetVolumes] - by oz 
+16:13:27 - Info - init - by oz 
+16:18:41 - Info - init - by oz 
+16:18:55 - Info - init - by guest 
+16:22:46 - Info - init - by guest 
+16:23:40 - Info - init - by guest 
+16:23:52 - Info - init - by oz 
+16:23:59 - Info - init - by guest 
+16:24:55 - Info - init - by guest 
+16:25:12 - Info - init - by guest 
+16:26:33 - Info - init - by guest 
+16:28:29 - Info - init - by guest 
+16:28:38 - Debug - selected script dir: C:\dev\PowerDesk_PowerShell-Operations-Toolkit\scripts\debug - by guest 
+16:31:04 - Debug - selected script dir: C:\dev\PowerDesk_PowerShell-Operations-Toolkit\scripts\debug - by guest 
+16:31:30 - Info - init - by guest 
+16:31:31 - Debug - selected script dir: C:\dev\PowerDesk_PowerShell-Operations-Toolkit\scripts\AD - by guest 
+16:31:32 - Debug - selected script dir: C:\dev\PowerDesk_PowerShell-Operations-Toolkit\scripts\debug - by guest 
+16:31:58 - Info - init - by guest 
+16:32:02 - Debug - selected script dir: debug - by guest 
+16:33:48 - Info - init - by guest 
+16:33:49 - Debug - selected script dir: AD - by guest 
+16:33:49 - Debug - selected script dir: debug - by guest 
+16:33:59 - Info - init - by oz 
+16:34:00 - Debug - selected script dir: debug - by oz 
+16:34:02 - Debug - selected script dir: AD - by oz 

@@ -60,8 +60,12 @@ function init {
         break
     }
     elseif ($selectDirIdx -ge 1 -and $selectDirIdx -le $scriptsDirs.Count) {
-        if ($selectDirIdx -eq 1 -and ($isContributer -ne "True") ) {
-            Write-Host "`ndebug use for CRUD new scripts, [contributers users] read contributing.md"
+        $dirpath = $($scriptsDirs[$selectDirIdx - 1].FullName)
+        $dirName = $(Split-Path -Leaf $dirpath)
+        Invoke-Expression "$WriteLog -Message 'selected script dir: $dirName' -FileName 'index'"
+        # Enter debug allow to contributors\admin only
+        if (($dirName -eq "debug") -and ($isContributer -ne "True") ) {
+            Write-Host "`ndebug use for CRUD new scripts, [contributers users] read contributing.md file doe more details"
             Show-Menu
         }
         $selectedFolder = $scriptsDirs[$selectDirIdx - 1].FullName
@@ -73,7 +77,7 @@ function init {
     }
 }
 
-# Choose script type
+# Back to init
 function Show-Menu {
     # Prompt the user to press Enter to return to the menu
     Write-Host "Press Enter to back to the menu Toolkit...`n"
@@ -89,15 +93,15 @@ function Show-SubMenu {
         [string]$Subfolder
     )
     Clear-Host # Clear the console screen
-
-    if ($Subfolder -eq "debug" ) {
+    $dirName = Split-Path -Leaf $Subfolder
+    if ($dirName -eq "debug" ) {
         $isContributer = Invoke-Expression "$GetEnvVar -Name 'isContributor'"
         if ($isContributer -ne "True") {
             init
         }
     }
     # Show Header
-    Invoke-Expression "$WriteCenter -Txt 'PowerDesk Toolkit\$((Split-Path -Leaf $Subfolder))'"
+    Invoke-Expression "$WriteCenter -Txt 'PowerDesk Toolkit\$dirName'"
      
     # Check if README.md file exists in the selected subfolder
     $readmeFilePath = Join-Path -Path $Subfolder -ChildPath "README.md"
