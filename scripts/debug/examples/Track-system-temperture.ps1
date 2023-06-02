@@ -1,0 +1,1 @@
+typeperf "\Thermal Zone Information(*)\Temperature"

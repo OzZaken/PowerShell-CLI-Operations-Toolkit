@@ -41,8 +41,8 @@ function init {
     Clear-Host  # Clear the console each start
     $isContributer = Invoke-Expression "$GetEnvVar -Name 'isContributor'"
 
-    # Show header
-    Invoke-Expression "$WriteCenter -Txt 'PowerDesk Toolkit - Seasion $(Get-Date -Format 'yyyy/dd/mm') - current user: $currentUser`n'"
+    # Show header “dddd MM/dd/yyyy HH:mm K”
+    Invoke-Expression "$WriteCenter -Txt 'PowerDesk Toolkit - Seasion $(Get-Date -Format "MM/dd/yyyy") - current user: $currentUser`n'"
     Write-Host "[0] Exit Toolkit or Choose relevent folder:`n" -ForegroundColor Yellow
 
     # Show scripts directories
