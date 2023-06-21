@@ -10,15 +10,20 @@ This script includes an extensive menu system with a wide array of commands to e
 ```bash
 https://github.com/OzZaken/PowerDesk_PowerShell-Operations-Toolkit.git
 ```
-
-# 2. add your username config user file  
+# 2. Make sure Allow scripts in powershell by run the command 
+```bash
+Set-ExecutionPolicy ByPass
+# or if on remote machine
+Set-ExecutionPolicy RemoteSigned
+```
+# 3. add your username config user file  
 ```bash
 config\CONTRIBUTERS.txt
 # Or
 config\POWERDESK_USERS.txt
 ```
 
-# 3. Run with powershell index.ps1
+# 4. Run with powershell index.ps1
   <img title="Run" src="assets/imgs/run-powerdesk.png">
 
 # PowerDesk ToolKit Menu keep simple

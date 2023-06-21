@@ -42,7 +42,7 @@ function init {
     $isContributer = Invoke-Expression "$GetEnvVar -Name 'isContributor'"
 
     # Show header “dddd MM/dd/yyyy HH:mm K”
-    Invoke-Expression "$WriteCenter -Txt 'PowerDesk Toolkit - Seasion $(Get-Date -Format "MM/dd/yyyy") - current user: $currentUser`n'"
+    Invoke-Expression "$WriteCenter -Txt 'Powershell operation toolkit - Seasion $(Get-Date -Format "MM/dd/yyyy") - current user: $currentUser`n'"
     Write-Host "[0] Exit Toolkit or Choose relevent folder:`n" -ForegroundColor Yellow
 
     # Show scripts directories
@@ -93,6 +93,7 @@ function Show-SubMenu {
         [string]$Subfolder
     )
     Clear-Host # Clear the console screen
+    
     $dirName = Get-NameFromPath -Path $Subfolder
     if ($dirName -eq "debug" ) {
         $isContributer = Invoke-Expression "$GetEnvVar -Name 'isContributor'"
@@ -101,7 +102,7 @@ function Show-SubMenu {
         }
     }
     # Show Header
-    Invoke-Expression "$WriteCenter -Txt 'PowerDesk Toolkit\$dirName'"
+    Invoke-Expression "$WriteCenter -Txt 'Powershell operation toolkit Toolkit\$dirName'"
      
     # Check if README.md file exists in the selected subfolder
     $readmeFilePath = Join-Path -Path $Subfolder -ChildPath "README.md"
@@ -110,7 +111,7 @@ function Show-SubMenu {
         try {
             $readmeContent = Get-Content $readmeFilePath -Raw
             Write-Host "README Content:`n" -BackgroundColor DarkMagenta -ForegroundColor DarkYellow
-            Write-Host $readmeContent  -BackgroundColor Gray -ForegroundColor DarkBlue
+            Write-Host $readmeContent  -BackgroundColor DarkGray -ForegroundColor White
             Write-Host
         }
         catch {

@@ -3,7 +3,8 @@ param (
     [string]$Msg
 )
 
-$ChangesFile = Join-Path -Path $PSScriptRoot -ChildPath "..\logs\CHANGES.md"
+$ChangesFile = Join-Path -Path $PSScriptRoot -ChildPath "..\CHANGES.md"
+Write-Host $ChangesFile
 $WriteLog = Join-Path -Path $PSScriptRoot -ChildPath "Write-Log.ps1"
 
 try {

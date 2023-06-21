@@ -1,0 +1,75 @@
+function Check-OpenPorts {
+    try {
+        Write-Host "Checking open ports..."
+        $openPorts = (Get-NetTCPConnection).State
+        # You can customize this part to filter and display specific open ports of interest
+
+        if ($openPorts) {
+            Write-Host "Open ports found:"
+            $openPorts
+        } else {
+            Write-Host "No open ports found."
+        }
+    } catch {
+        Write-Host "An error occurred while checking open ports: $_"
+    }
+}
+
+function Check-Firewall {
+    try {
+        Write-Host "Checking firewall status..."
+        $firewallStatus = Get-NetFirewallProfile | Select-Object -ExpandProperty Enabled
+        # You can customize this part based on your specific requirements
+
+        if ($firewallStatus) {
+            Write-Host "Firewall is active."
+        } else {
+            Write-Host "Firewall is not active. Enable it for better security."
+        }
+    } catch {
+        Write-Host "An error occurred while checking firewall status: $_"
+    }
+}
+
+function Check-Antivirus {
+    try {
+        Write-Host "Checking antivirus status..."
+        $antivirusStatus = Get-WmiObject -Namespace "root\SecurityCenter2" -Class AntiVirusProduct | Select-Object -ExpandProperty displayName
+        # You can customize this part based on your specific requirements
+
+        if ($antivirusStatus -contains "Windows Defender") {
+            Write-Host "Windows Defender is active."
+        } else {
+            Write-Host "No antivirus software found. Install an antivirus program for better security."
+        }
+    } catch {
+        Write-Host "An error occurred while checking antivirus status: $_"
+    }
+}
+
+function Check-WindowsUpdates {
+    try {
+        Write-Host "Checking Windows updates..."
+        $windowsUpdateStatus = Get-HotFix
+        # You can customize this part based on your specific requirements
+
+        if ($windowsUpdateStatus) {
+            Write-Host "Windows updates are installed."
+        } else {
+            Write-Host "No Windows updates found. Install the latest updates for better security."
+        }
+    } catch {
+        Write-Host "An error occurred while checking Windows updates: $_"
+    }
+}
+
+# Main function
+function Main {
+    Check-OpenPorts
+    Check-Firewall
+    Check-Antivirus
+    Check-WindowsUpdates
+}
+
+# Execute the main function
+Main
