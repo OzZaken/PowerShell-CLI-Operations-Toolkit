@@ -19,3 +19,10 @@
 11:09:13 - Info - init - by oz 
 11:09:20 - Debug - AddLogChange - by oz 
 11:09:20 - Info - Invoke-Expression: [Update-Change-Log] - by oz 
+11:39:57 - Info - init - by oz 
+11:40:47 - Error - Invoke-Expression: [Get-process] - by oz 
+11:41:21 - Info - Invoke-Expression: [Get-InstalledSoftwares] - by oz 
+11:42:48 - Info - Invoke-Expression: [Speak] - by oz 
+14:06:11 - Info - init - by oz 
+14:07:19 - Info - Invoke-Expression: [Report-NetAdapter] - by oz 
+14:08:07 - Info - Invoke-Expression: [getmac] - by oz 

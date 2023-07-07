@@ -1,0 +1,5 @@
+11:19:05 - Info - init - by oz 
+11:19:39 - Info - Invoke-Expression: [Report-NetAdapter] - by oz 
+11:20:20 - Info - Invoke-Expression: [Get-process] - by oz 
+11:20:46 - Info - Invoke-Expression: [NotificationMsg] - by oz 
+11:21:26 - Info - init - by guest 
