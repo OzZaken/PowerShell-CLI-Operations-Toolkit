@@ -48,7 +48,7 @@ config\POWERDESK_USERS.txt
   <img title="File" src="assets/imgs/popup-1.png">
   <img title="File" src="assets/imgs/popup-2.png">
 
-# 3 Versions of logs file for easy debugging (daily session, per script file, warning):    
+# 3 Versions of logs file for Track & Debug (daily session, per script file, warning):    
   <img title="File" src="assets/imgs/logs-types.png">
 
 ## Contributors can keep truck and Update the 'CHANGES.md' file  over logs via debug\contribute:
